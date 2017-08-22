@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.oahzuw:OuUtils:generalZzz">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/oahzuw/OuUtils/generalZzz/OuUtils-generalZzz.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/com/oahzuw/OuUtils/generalZzz/OuUtils-generalZzz-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/oahzuw/OuUtils/generalZzz/OuUtils-generalZzz-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
